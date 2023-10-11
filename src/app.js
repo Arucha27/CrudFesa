@@ -12,7 +12,7 @@ app.set('port', 4000);
  user: 'root',
  password:'josue',
  port: 3306,
- database:''
+ database:'crudfjs'
  }));
 
 
