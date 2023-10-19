@@ -23,7 +23,7 @@ app.set('view engine', 'hbs');
 app.use(myconnection (mysql, {
 host: 'localhost',
 user: 'root',
-password: "josue",
+password: "adminroot",
 port: 3306,
 database: 'crudfjs'
 },'single'));
